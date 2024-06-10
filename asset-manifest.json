@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.daf50ad9.css",
-    "main.js": "/static/js/main.e4467c02.js",
+    "main.css": "/static/css/main.6ff88835.css",
+    "main.js": "/static/js/main.9bf6190f.js",
     "static/js/787.69d7e02d.chunk.js": "/static/js/787.69d7e02d.chunk.js",
     "static/media/pdpstyler.png": "/static/media/pdpstyler.be7ee5d71c1dbd08bd96.png",
     "static/media/NEUMORPHIC_CIRCLES_BACKGROUND.jpg": "/static/media/NEUMORPHIC_CIRCLES_BACKGROUND.d745ca21dca6bab72804.jpg",
     "index.html": "/index.html",
-    "main.daf50ad9.css.map": "/static/css/main.daf50ad9.css.map",
-    "main.e4467c02.js.map": "/static/js/main.e4467c02.js.map",
+    "main.6ff88835.css.map": "/static/css/main.6ff88835.css.map",
+    "main.9bf6190f.js.map": "/static/js/main.9bf6190f.js.map",
     "787.69d7e02d.chunk.js.map": "/static/js/787.69d7e02d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.daf50ad9.css",
-    "static/js/main.e4467c02.js"
+    "static/css/main.6ff88835.css",
+    "static/js/main.9bf6190f.js"
   ]
 }
