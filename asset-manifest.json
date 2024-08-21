@@ -1,17 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.6ff88835.css",
-    "main.js": "/static/js/main.9bf6190f.js",
+    "main.css": "/static/css/main.7f2f3907.css",
+    "main.js": "/static/js/main.338e8b6b.js",
     "static/js/787.69d7e02d.chunk.js": "/static/js/787.69d7e02d.chunk.js",
+    "static/media/vecteezy_top-arrow-icon-png-on-transparent-background_17785072.png": "/static/media/vecteezy_top-arrow-icon-png-on-transparent-background_17785072.b937ed3b4c8ba14647be.png",
     "static/media/pdpstyler.png": "/static/media/pdpstyler.be7ee5d71c1dbd08bd96.png",
     "static/media/NEUMORPHIC_CIRCLES_BACKGROUND.jpg": "/static/media/NEUMORPHIC_CIRCLES_BACKGROUND.d745ca21dca6bab72804.jpg",
+    "static/media/email.png": "/static/media/email.b32132577b7ab2d8847a.png",
+    "static/media/telephone.png": "/static/media/telephone.31f63e68df851dd18cc5.png",
     "index.html": "/index.html",
-    "main.6ff88835.css.map": "/static/css/main.6ff88835.css.map",
-    "main.9bf6190f.js.map": "/static/js/main.9bf6190f.js.map",
+    "main.7f2f3907.css.map": "/static/css/main.7f2f3907.css.map",
+    "main.338e8b6b.js.map": "/static/js/main.338e8b6b.js.map",
     "787.69d7e02d.chunk.js.map": "/static/js/787.69d7e02d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6ff88835.css",
-    "static/js/main.9bf6190f.js"
+    "static/css/main.7f2f3907.css",
+    "static/js/main.338e8b6b.js"
   ]
 }
